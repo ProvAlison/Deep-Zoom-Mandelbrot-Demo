@@ -1,0 +1,33 @@
+C:\Scratch\MandelbrotDemo\MandelbrotDemo.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Scratch\MandelbrotDemo\MandelbrotDemo.Web\bin\MandelbrotDemo.Web.dll
+C:\Scratch\MandelbrotDemo\MandelbrotDemo.Web\bin\MandelbrotDemo.Web.pdb
+C:\Scratch\MandelbrotDemo\MandelbrotDemo.Web\bin\System.Web.Silverlight.dll
+C:\Scratch\MandelbrotDemo\MandelbrotDemo.Web\bin\de\System.Web.Silverlight.resources.dll
+C:\Scratch\MandelbrotDemo\MandelbrotDemo.Web\bin\es\System.Web.Silverlight.resources.dll
+C:\Scratch\MandelbrotDemo\MandelbrotDemo.Web\bin\fr\System.Web.Silverlight.resources.dll
+C:\Scratch\MandelbrotDemo\MandelbrotDemo.Web\bin\it\System.Web.Silverlight.resources.dll
+C:\Scratch\MandelbrotDemo\MandelbrotDemo.Web\bin\ja\System.Web.Silverlight.resources.dll
+C:\Scratch\MandelbrotDemo\MandelbrotDemo.Web\bin\ko\System.Web.Silverlight.resources.dll
+C:\Scratch\MandelbrotDemo\MandelbrotDemo.Web\bin\zh-Hans\System.Web.Silverlight.resources.dll
+C:\Scratch\MandelbrotDemo\MandelbrotDemo.Web\bin\zh-Hant\System.Web.Silverlight.resources.dll
+C:\Scratch\MandelbrotDemo\MandelbrotDemo.Web\obj\Debug\MandelbrotDemo.Web.dll
+C:\Scratch\MandelbrotDemo\MandelbrotDemo.Web\obj\Debug\MandelbrotDemo.Web.pdb
+C:\Samples\Silverlight 2\Deep Zoom Demos\MandelbrotDemo\MandelbrotDemo.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Samples\Silverlight 2\Deep Zoom Demos\MandelbrotDemo\MandelbrotDemo.Web\obj\Debug\MandelbrotDemo.Web.dll
+C:\Samples\Silverlight 2\Deep Zoom Demos\MandelbrotDemo\MandelbrotDemo.Web\bin\MandelbrotDemo.Web.dll
+C:\Samples\Silverlight 2\Deep Zoom Demos\MandelbrotDemo\MandelbrotDemo.Web\bin\MandelbrotDemo.Web.pdb
+C:\Samples\Silverlight 2\Deep Zoom Demos\MandelbrotDemo\MandelbrotDemo.Web\bin\System.Web.Silverlight.dll
+C:\Samples\Silverlight 2\Deep Zoom Demos\MandelbrotDemo\MandelbrotDemo.Web\bin\de\System.Web.Silverlight.resources.dll
+C:\Samples\Silverlight 2\Deep Zoom Demos\MandelbrotDemo\MandelbrotDemo.Web\bin\es\System.Web.Silverlight.resources.dll
+C:\Samples\Silverlight 2\Deep Zoom Demos\MandelbrotDemo\MandelbrotDemo.Web\bin\fr\System.Web.Silverlight.resources.dll
+C:\Samples\Silverlight 2\Deep Zoom Demos\MandelbrotDemo\MandelbrotDemo.Web\bin\it\System.Web.Silverlight.resources.dll
+C:\Samples\Silverlight 2\Deep Zoom Demos\MandelbrotDemo\MandelbrotDemo.Web\bin\ja\System.Web.Silverlight.resources.dll
+C:\Samples\Silverlight 2\Deep Zoom Demos\MandelbrotDemo\MandelbrotDemo.Web\bin\ko\System.Web.Silverlight.resources.dll
+C:\Samples\Silverlight 2\Deep Zoom Demos\MandelbrotDemo\MandelbrotDemo.Web\bin\zh-Hans\System.Web.Silverlight.resources.dll
+C:\Samples\Silverlight 2\Deep Zoom Demos\MandelbrotDemo\MandelbrotDemo.Web\bin\zh-Hant\System.Web.Silverlight.resources.dll
+C:\Samples\Silverlight 2\Deep Zoom Demos\MandelbrotDemo\MandelbrotDemo.Web\obj\Debug\MandelbrotDemo.Web.pdb
+C:\git\DeepZoomDemos\MandelbrotDemo\MandelbrotDemo.Web\bin\MandelbrotDemo.Web.dll.config
+C:\git\DeepZoomDemos\MandelbrotDemo\MandelbrotDemo.Web\bin\MandelbrotDemo.Web.dll
+C:\git\DeepZoomDemos\MandelbrotDemo\MandelbrotDemo.Web\bin\MandelbrotDemo.Web.pdb
+C:\git\DeepZoomDemos\MandelbrotDemo\MandelbrotDemo.Web\obj\Debug\MandelbrotDemo.Web.dll
+C:\git\DeepZoomDemos\MandelbrotDemo\MandelbrotDemo.Web\obj\Debug\MandelbrotDemo.Web.pdb
