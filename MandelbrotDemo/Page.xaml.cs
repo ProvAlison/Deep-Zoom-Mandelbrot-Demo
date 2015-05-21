@@ -130,5 +130,19 @@ namespace MandelbrotDemo
             MSI.ViewportOrigin = _LastViewportOrigin = origin;
         }
 
+        private void ZoomSlider_ValueChanged(object sender, RoutedPropertyChangedEventArgs<double> eventArgs)
+        {
+            Point origin = _LastViewportOrigin;
+            double change = eventArgs.NewValue - eventArgs.OldValue;
+            double zoomFactor = 1.25;
+            if (change < 0)
+            {
+                zoomFactor = .75;
+            }
+            // find the middle
+            Point point = MSI.ElementToLogicalPoint(new Point(800, 400));
+            MSI.ZoomAboutLogicalPoint(zoomFactor, point.X, point.Y);
+        }
+
     }
 }

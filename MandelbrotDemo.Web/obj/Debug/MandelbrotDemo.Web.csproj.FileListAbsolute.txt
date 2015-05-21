@@ -32,3 +32,9 @@ C:\git\DeepZoomDemos\MandelbrotDemo\MandelbrotDemo.Web\bin\MandelbrotDemo.Web.pd
 C:\git\DeepZoomDemos\MandelbrotDemo\MandelbrotDemo.Web\obj\Debug\MandelbrotDemo.Web.dll
 C:\git\DeepZoomDemos\MandelbrotDemo\MandelbrotDemo.Web\obj\Debug\MandelbrotDemo.Web.pdb
 C:\git\DeepZoomDemos\MandelbrotDemo\MandelbrotDemo.Web\obj\Debug\MandelbrotDemo.Web.csprojResolveAssemblyReference.cache
+C:\git\Deep-Zoom-Mandelbrot-Demo\MandelbrotDemo.Web\bin\MandelbrotDemo.Web.dll.config
+C:\git\Deep-Zoom-Mandelbrot-Demo\MandelbrotDemo.Web\bin\MandelbrotDemo.Web.dll
+C:\git\Deep-Zoom-Mandelbrot-Demo\MandelbrotDemo.Web\bin\MandelbrotDemo.Web.pdb
+C:\git\Deep-Zoom-Mandelbrot-Demo\MandelbrotDemo.Web\obj\Debug\MandelbrotDemo.Web.dll
+C:\git\Deep-Zoom-Mandelbrot-Demo\MandelbrotDemo.Web\obj\Debug\MandelbrotDemo.Web.pdb
+C:\git\Deep-Zoom-Mandelbrot-Demo\MandelbrotDemo.Web\obj\Debug\MandelbrotDemo.Web.csprojResolveAssemblyReference.cache

@@ -22,3 +22,14 @@ C:\git\DeepZoomDemos\MandelbrotDemo\MandelbrotDemo\obj\Debug\MandelbrotDemo.dll
 C:\git\DeepZoomDemos\MandelbrotDemo\MandelbrotDemo\obj\Debug\MandelbrotDemo.pdb
 C:\git\DeepZoomDemos\MandelbrotDemo\MandelbrotDemo\obj\Debug\XapCacheFile.xml
 C:\git\DeepZoomDemos\MandelbrotDemo\MandelbrotDemo\obj\Debug\MandelbrotDemo.csprojResolveAssemblyReference.cache
+C:\git\Deep-Zoom-Mandelbrot-Demo\MandelbrotDemo\Bin\Debug\MandelbrotDemo.dll
+C:\git\Deep-Zoom-Mandelbrot-Demo\MandelbrotDemo\Bin\Debug\MandelbrotDemo.pdb
+C:\git\Deep-Zoom-Mandelbrot-Demo\MandelbrotDemo\Bin\Debug\AppManifest.xaml
+C:\git\Deep-Zoom-Mandelbrot-Demo\MandelbrotDemo\Bin\Debug\MandelbrotDemo.xap
+C:\git\Deep-Zoom-Mandelbrot-Demo\MandelbrotDemo\Bin\Debug\TestPage.html
+C:\git\Deep-Zoom-Mandelbrot-Demo\MandelbrotDemo\obj\Debug\App.g.cs
+C:\git\Deep-Zoom-Mandelbrot-Demo\MandelbrotDemo\obj\Debug\Page.g.cs
+C:\git\Deep-Zoom-Mandelbrot-Demo\MandelbrotDemo\obj\Debug\MandelbrotDemo.g.resources
+C:\git\Deep-Zoom-Mandelbrot-Demo\MandelbrotDemo\obj\Debug\MandelbrotDemo.dll
+C:\git\Deep-Zoom-Mandelbrot-Demo\MandelbrotDemo\obj\Debug\MandelbrotDemo.pdb
+C:\git\Deep-Zoom-Mandelbrot-Demo\MandelbrotDemo\obj\Debug\XapCacheFile.xml
