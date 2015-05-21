@@ -31,3 +31,4 @@ C:\git\DeepZoomDemos\MandelbrotDemo\MandelbrotDemo.Web\bin\MandelbrotDemo.Web.dl
 C:\git\DeepZoomDemos\MandelbrotDemo\MandelbrotDemo.Web\bin\MandelbrotDemo.Web.pdb
 C:\git\DeepZoomDemos\MandelbrotDemo\MandelbrotDemo.Web\obj\Debug\MandelbrotDemo.Web.dll
 C:\git\DeepZoomDemos\MandelbrotDemo\MandelbrotDemo.Web\obj\Debug\MandelbrotDemo.Web.pdb
+C:\git\DeepZoomDemos\MandelbrotDemo\MandelbrotDemo.Web\obj\Debug\MandelbrotDemo.Web.csprojResolveAssemblyReference.cache

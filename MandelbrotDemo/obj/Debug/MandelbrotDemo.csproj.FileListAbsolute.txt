@@ -21,3 +21,4 @@ C:\git\DeepZoomDemos\MandelbrotDemo\MandelbrotDemo\obj\Debug\MandelbrotDemo.g.re
 C:\git\DeepZoomDemos\MandelbrotDemo\MandelbrotDemo\obj\Debug\MandelbrotDemo.dll
 C:\git\DeepZoomDemos\MandelbrotDemo\MandelbrotDemo\obj\Debug\MandelbrotDemo.pdb
 C:\git\DeepZoomDemos\MandelbrotDemo\MandelbrotDemo\obj\Debug\XapCacheFile.xml
+C:\git\DeepZoomDemos\MandelbrotDemo\MandelbrotDemo\obj\Debug\MandelbrotDemo.csprojResolveAssemblyReference.cache
